@@ -3,6 +3,9 @@
 Project Title:
 Pizzeria Database
 
+Project Purpose:
+The primary objective of this SQL project was to acquire a comprehensive understanding of database design and management, with a specific focus on schema development, normalization techniques, query optimization, and effective table joining.
+
 Project Description:
 Designed a relational database for a client who opened a new pizzeria (takeouts and deliveries only). This database will allow thr client to store all the important data and information that the business generates.
 We also run some custom queries which help gauge the business performance. Our main focus is on Orders and Stock/Inventory.
