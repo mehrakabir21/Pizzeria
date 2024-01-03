@@ -17,5 +17,5 @@ Microsoft Excel - Storing the customer, stock, orders data.
 
 Challenges faced:
 1. Once we create a sample schema, we notice a lot of redundancies. To fix this issue we did "Normalizing".
-2. Ran into issues while loading data from CSV files to the Workbench. To fix this issue, we made sure all the data types were correct for all the fields in the tables and made sure the data type "Dat" was in correct format "YYYY-MM-DD".
+2. Ran into issues while loading data from CSV files to the Workbench. To fix this issue, we made sure all the data types were correct for all the fields in the tables and made sure the data type "Date" was in correct format "YYYY-MM-DD".
 
